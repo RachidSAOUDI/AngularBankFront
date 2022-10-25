@@ -40,3 +40,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Generate New Component
 * Run : `ng generate componenet navbar` Or `ng g c navbar`
+
+## Generate Component Customers
+* Run : `ng g c customers`
+* Run : `ng g c accounts`
