@@ -37,3 +37,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Install Bootstrap icons 
 * Run : `npm install bootstrap-icons --save`
+
+## Generate New Component
+* Run : `ng generate componenet navbar` Or `ng g c navbar`
