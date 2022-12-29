@@ -54,3 +54,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## To Generate Typescript auto
 * Copy Content in this wbesite : `http://localhost:8085/accounts/005f6a6e-6214-40e8-9684-6bbee1b7e4f2/pageOperations`
 * Visit : `https://quicktype.io/typescript`
+
+## Generate New Component
+* Run : `ng g c new-customer`
